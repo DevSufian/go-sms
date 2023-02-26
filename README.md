@@ -1,2 +1,2 @@
-# fly sms
+# go sms
 
